@@ -4,3 +4,6 @@
 
 ## References
 - [Git website docs](https://git-scm.com/docs)
+
+To rename a branch
+- git branch -m <old_name> <new_name>
